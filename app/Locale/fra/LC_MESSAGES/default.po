@@ -1,0 +1,117 @@
+msgid "Name"
+msgstr "Prénom"
+
+msgid "Id"
+msgstr "Identifiant"
+
+msgid "Actions"
+msgstr "Actes"
+
+msgid "Locations"
+msgstr "Emplacements"
+
+msgid "Location"
+msgstr "Emplacement"
+
+msgid "Phone Number"
+msgstr "Numéro de téléphone"
+
+msgid "Category"
+msgstr "Catégorie"
+
+msgid "Edit Location"
+msgstr "Modifier l'emplacement"
+
+msgid "List Locations"
+msgstr "Liste des emplacements"
+
+msgid "Delete Location"
+msgstr "Supprimer l'emplacement"
+
+msgid "New Location"
+msgstr "Nouvel emplacement"
+
+msgid "previous"
+msgstr "précédent"
+
+msgid "next"
+msgstr "prochain"
+
+msgid "View"
+msgstr "Vue"
+
+msgid "Edit"
+msgstr "Modifier"
+
+msgid "Delete"
+msgstr "Effacer"
+
+msgid "Latitude"
+msgstr "Latitude"
+
+msgid "Longitude"
+msgstr "Longitude"
+
+msgid "City"
+msgstr "Ville"
+
+msgid "State"
+msgstr "Etat"
+
+msgid "Country"
+msgstr "Pays"
+
+msgid "Add Location"
+msgstr "Ajouter un emplacement"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Address2"
+msgstr "Adresse2"
+
+msgid "Submit"
+msgstr "Soumettre"
+
+msgid "Invalid location"
+msgstr "Location invalide"
+
+msgid "The location has been saved."
+msgstr "L'emplacement a été enregistré."
+
+msgid "The location could not be saved. Please, try again."
+msgstr "L'emplacement n'a pas pu être enregistré. Veuillez réessayer."
+
+msgid "The location has been saved."
+msgstr "L'emplacement a été enregistré."
+
+msgid "The location could not be saved. Please, try again."
+msgstr "L'emplacement n'a pas pu être enregistré. Veuillez réessayer."
+
+msgid "The location has been deleted."
+msgstr "L'emplacement a été supprimé."
+
+msgid "The location could not be deleted. Please, try again."
+msgstr "L'emplacement n'a pas pu être supprimé. Veuillez réessayer."
+
+msgid "Are you sure you want to delete # %s?"
+msgstr "Etes-vous sûr que vous voulez supprimer # %s?"
+
+msgid "Page"
+msgstr "Page"
+
+msgid "of"
+msgstr "de"
+
+msgid "showing"
+msgstr "montrer"
+
+msgid "records out of"
+msgstr "enregistrements sur"
+
+msgid "total, starting on record"
+msgstr "total, en commençant par enregistrer"
+
+msgid "ending on"
+msgstr "se terminant par"
+

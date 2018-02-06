@@ -1,0 +1,121 @@
+msgid "Name"
+msgstr "Name"
+
+msgid "Id"
+msgstr "Id"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Locations"
+msgstr "Locations"
+
+msgid "New Location"
+msgstr "New Location"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "previous"
+msgstr "previous"
+
+msgid "next"
+msgstr "next"
+
+msgid "Location"
+msgstr "Location"
+
+msgid "Phone Number"
+msgstr "Phone Number"
+
+msgid "Category"
+msgstr "Category"
+
+msgid "Edit Location"
+msgstr "Edit Location"
+
+msgid "List Locations"
+msgstr "List Locations"
+
+msgid "Delete Location"
+msgstr "Delete Location"
+
+msgid "View"
+msgstr "View"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "Latitude"
+msgstr "Latitude"
+
+msgid "Longitude"
+msgstr "Longitude"
+
+msgid "City"
+msgstr "City"
+
+msgid "State"
+msgstr "State"
+
+msgid "Country"
+msgstr "Country"
+
+msgid "Add Location"
+msgstr "Add Location"
+
+msgid "Address"
+msgstr "Address"
+
+msgid "Address2"
+msgstr "Address2"
+
+msgid "Submit"
+msgstr "Submit"
+
+msgid "Invalid location"
+msgstr "Invalid location"
+
+msgid "The location has been saved."
+msgstr "The location has been saved."
+
+msgid "The location could not be saved. Please, try again."
+msgstr "The location could not be saved. Please, try again."
+
+msgid "The location has been saved."
+msgstr "The location has been saved."
+
+msgid "The location could not be saved. Please, try again."
+msgstr "The location could not be saved. Please, try again."
+
+msgid "The location has been deleted."
+msgstr "The location has been deleted."
+
+msgid "The location could not be deleted. Please, try again."
+msgstr "The location could not be deleted. Please, try again."
+
+msgid "Are you sure you want to delete # %s?"
+msgstr "Are you sure you want to delete # %s?"
+
+msgid "Page"
+msgstr "Page"
+
+msgid "of"
+msgstr "of"
+
+msgid "showing"
+msgstr "showing"
+
+msgid "records out of"
+msgstr "records out of"
+
+msgid "total, starting on record"
+msgstr "total, starting on record"
+
+msgid "ending on"
+msgstr "ending on"
+
+
